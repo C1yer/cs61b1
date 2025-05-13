@@ -7,7 +7,7 @@
 
 * 检索关系得到三元组去对实体检索得到三元组做补充。
 
-![image](mypipeline.png)
+![image](kg/mypipeline.png)
 
 ## Query扩写
 * 对Query进行扩写以获取更多信息。
