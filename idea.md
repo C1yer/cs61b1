@@ -6,7 +6,7 @@
 
 * 检索关系得到三元组去对实体检索得到三元组做补充
 
-![image](https://github.com/C1yer/cs61b1/blob/main/mypipeline.png)
+![image](mypipeline.png)
 
 ## Query扩写
 * 对Query进行扩写以获取更多信息。
