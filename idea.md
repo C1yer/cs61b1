@@ -43,6 +43,7 @@
   过滤模型（Filtration Model）​MiniLM（6层，22M参数）快速过滤无关段落，保留Top-70候选。
 ​  重排序模型（Re-ranker）​DeBERTa（900M参数）对过滤后的段落按语义相关性重新排序。
 
-![image](example.png)
+## 参照论文TOG改进对kg方面的检索
+![image](tog.png)
 
 
