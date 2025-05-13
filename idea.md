@@ -29,7 +29,7 @@
 
 
 
-## 参照论文EWEK-QA（24ACL）对细节进行补充
+## 参照论文EWEK-QA（发布在24ACL）对细节进行补充
 
 ![image](ewek-qa.png)
 
