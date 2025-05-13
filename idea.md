@@ -7,7 +7,7 @@
 
 * 检索关系得到三元组去对实体检索得到三元组做补充。
 
-![image](https://github.com/C1yer/cs61b1/blob/kg/mypipeline.png)
+![image(mine.png)
 
 ## Query扩写
 * 对Query进行扩写以获取更多信息。
@@ -31,7 +31,7 @@
 
 ## 参照论文EWEK-QA（24ACL）对细节进行补充
 
-![image](pipeline.png)
+![image](ewek-qa.png)
 
 * 原论文结合web查询和图谱查询
 
