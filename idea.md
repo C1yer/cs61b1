@@ -6,7 +6,7 @@
 
 * 检索关系得到三元组去对实体检索得到三元组做补充
 
-!image[mypipeline.png]
+![image](https://github.com/C1yer/cs61b1/blob/main/mypipeline.png)
 
 ## Query扩写
 * 对Query进行扩写以获取更多信息。
@@ -31,6 +31,8 @@
 
 ## 参照论文EWEK-QA（24ACL）对细节进行补充
 
+![image](pipeline.png)
+
 * 原论文结合web查询和图谱查询
 
 * 在文档检索中可参考ToG-E的多跳查询（EWEK-QA对TOG做的改进:ToG-E​（ToG-Efficient）用SentenceBERT替换TOG流程中的LLM进行相似度计算
@@ -40,5 +42,7 @@
 * 检索与重排序原论文使用了两阶段模型：
   过滤模型（Filtration Model）​MiniLM（6层，22M参数）快速过滤无关段落，保留Top-70候选。
 ​  重排序模型（Re-ranker）​：DeBERTa（900M参数）对过滤后的段落按语义相关性重新排序。
+
+![image](example.png)
 
 
